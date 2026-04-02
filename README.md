@@ -16,3 +16,5 @@
 2. **Sistem Konversi Waktu (Hari)**
    Pada bagian ini, saya membuat program untuk mengkonversi jumlah hari menjadi satuan waktu yang lebih besar seperti tahun, bulan, dan sisa hari. Saya menggunakan operasi aritmatika untuk membagi dan menentukan sisa hasil pembagian. Melalui latihan ini, saya belajar bagaimana mengelola data numerik dan melakukan perhitungan secara sistematis.
 Melalui tugas ini, saya dapat memahami dasar-dasar algoritma seperti perulangan, percabangan, dan operasi aritmatika. Tugas ini juga membantu saya dalam meningkatkan logika berpikir dalam menyelesaikan suatu permasalahan menggunakan bahasa pemrograman Python.
+
+Melalui tugas ini, saya dapat memahami dasar-dasar algoritma seperti perulangan, percabangan, dan operasi aritmatika. Tugas ini juga membantu saya dalam meningkatkan logika berpikir dalam menyelesaikan suatu permasalahan menggunakan bahasa pemrograman Python.
