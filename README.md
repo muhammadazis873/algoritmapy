@@ -3,8 +3,8 @@
 ## Tugas Algoritma
 
 **Nama:** Muhammad Azis
-**NIM:** (ISI NIM LU)
-**Matkul:** Algoritma dan Pemrograman
+**NIM:** (251011700872)
+**Matkul:** Algoritma
 
 ---
 
