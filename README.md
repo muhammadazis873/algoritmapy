@@ -15,3 +15,5 @@
 
 2. **Sistem Konversi Waktu (Hari)**
    Pada bagian ini, saya membuat program untuk mengkonversi jumlah hari menjadi satuan waktu yang lebih besar seperti tahun, bulan, dan sisa hari. Saya menggunakan operasi aritmatika untuk membagi dan menentukan sisa hasil pembagian. Melalui latihan ini, saya belajar bagaimana mengelola data numerik dan melakukan perhitungan secara sistematis.
+
+   https://colab.research.google.com/drive/1ok9TUsf4p6JfAo_PKKvSye_Ia1qcn5Hv?usp=sharing
