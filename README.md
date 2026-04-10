@@ -15,6 +15,7 @@
 
 2. **Sistem Konversi Waktu (Hari)**
    Pada bagian ini, saya membuat program untuk mengkonversi jumlah hari menjadi satuan waktu yang lebih besar seperti tahun, bulan, dan sisa hari. Saya menggunakan operasi aritmatika untuk membagi dan menentukan sisa hasil pembagian. Melalui latihan ini, saya belajar bagaimana mengelola data numerik dan melakukan perhitungan secara sistematis.
+   
 [klik disini untuk mencoba program](https://colab.research.google.com/drive/1ok9TUsf4p6JfAo_PKKvSye_Ia1qcn5Hv?usp=sharing)
 
 ## Tugas Pertemuan 5
@@ -29,6 +30,7 @@ Data yang digunakan berupa NIM, nama mahasiswa, serta nilai dari beberapa mata k
    Program ini dibuat untuk melakukan operasi dasar pada matriks menggunakan Python.
 User dapat memilih beberapa operasi yang tersedia, yaitu penjumlahan, pengurangan, dan perkalian matriks melalui menu.
 Program akan meminta input jumlah baris dan kolom, kemudian pengguna memasukkan elemen matriks A dan matriks B. Setelah itu, program akan menampilkan hasil sesuai operasi yang dipilih.
+
 [Klik disini untuk mencoba program](https://colab.research.google.com/drive/1V8wiZx1m_dX20rFcxaU3m0nxsU9dLN2R?usp=sharing)
 
 
