@@ -33,7 +33,7 @@ Program akan meminta input jumlah baris dan kolom, kemudian pengguna memasukkan 
 
 [Klik disini untuk mencoba program](https://colab.research.google.com/drive/1V8wiZx1m_dX20rFcxaU3m0nxsU9dLN2R?usp=sharing)
 
-## Tugas pertemuan 6
+## Tugas pertemuan 7
 Program ini dibuat menggunakan bahasa Python dengan konsep percabangan dan perulangan. Program memiliki menu pilihan yang terdiri dari perhitungan barisan Fibonacci dan operasi perkalian dua bilangan. Pada menu pertama, pengguna diminta memasukkan jumlah suku, kemudian program akan menampilkan deret Fibonacci sesuai jumlah tersebut. Pada menu kedua, pengguna diminta memasukkan dua bilangan bulat untuk dihitung hasil perkaliannya. Program berjalan secara berulang hingga pengguna memilih opsi keluar.
 
 [Klik disini untuk mencoba program](https://colab.research.google.com/drive/1QKuF8yG1KNdzSu7h0xO-UMfiW-i-AoH-?usp=sharing)
